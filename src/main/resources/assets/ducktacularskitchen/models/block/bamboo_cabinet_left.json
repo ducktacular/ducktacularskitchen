@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_left",
+  "textures": {
+    "main": "minecraft:block/bamboo_block",
+    "bottom": "minecraft:block/bamboo_block_top",
+    "container": "minecraft:block/stripped_bamboo_block",
+    "particle": "minecraft:block/bamboo_block"
+  }
+}

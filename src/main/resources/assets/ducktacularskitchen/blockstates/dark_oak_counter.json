@@ -1,0 +1,50 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "ducktacularskitchen:block/dark_oak_counter_top",
+        "uvlock": true
+      }
+    },
+    {
+      "apply": {
+        "model": "ducktacularskitchen:block/dark_oak_counter"
+      }
+    },
+    {
+      "when": {
+        "north": true
+      },
+      "apply": {
+        "model": "ducktacularskitchen:block/dark_oak_counter_side"
+      }
+    },
+    {
+      "when": {
+        "east": true
+      },
+      "apply": {
+        "model": "ducktacularskitchen:block/dark_oak_counter_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": true
+      },
+      "apply": {
+        "model": "ducktacularskitchen:block/dark_oak_counter_side",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": true
+      },
+      "apply": {
+        "model": "ducktacularskitchen:block/dark_oak_counter_side",
+        "y": 270
+      }
+    }
+  ]
+}

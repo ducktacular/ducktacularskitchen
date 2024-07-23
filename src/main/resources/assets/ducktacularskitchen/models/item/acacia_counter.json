@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/counter_full",
+  "textures": {
+    "main": "minecraft:block/acacia_log",
+    "bottom": "minecraft:block/acacia_log_top",
+    "top": "minecraft:block/acacia_planks",
+    "particle": "minecraft:block/acacia_log"
+  }
+}

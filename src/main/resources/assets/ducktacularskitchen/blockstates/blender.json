@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ducktacularskitchen:block/blender"
+    },
+    "facing=east": {
+      "model": "ducktacularskitchen:block/blender",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ducktacularskitchen:block/blender",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ducktacularskitchen:block/blender",
+      "y": 270
+    }
+  }
+}

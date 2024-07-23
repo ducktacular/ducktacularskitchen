@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/counter_full",
+  "textures": {
+    "main": "minecraft:block/jungle_log",
+    "bottom": "minecraft:block/jungle_log_top",
+    "top": "minecraft:block/jungle_planks",
+    "particle": "minecraft:block/jungle_log"
+  }
+}

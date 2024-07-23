@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_right",
+  "textures": {
+    "main": "minecraft:block/cherry_log",
+    "bottom": "minecraft:block/cherry_log_top",
+    "container": "minecraft:block/stripped_cherry_log",
+    "particle": "minecraft:block/cherry_log"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_left",
+  "textures": {
+    "main": "minecraft:block/acacia_log",
+    "bottom": "minecraft:block/acacia_log_top",
+    "container": "minecraft:block/stripped_acacia_log",
+    "particle": "minecraft:block/acacia_log"
+  }
+}

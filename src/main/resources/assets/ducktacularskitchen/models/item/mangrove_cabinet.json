@@ -1,0 +1,10 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_left_full",
+  "textures": {
+    "main": "minecraft:block/mangrove_log",
+    "bottom": "minecraft:block/mangrove_log_top",
+    "top": "minecraft:block/mangrove_planks",
+    "container": "minecraft:block/stripped_mangrove_log",
+    "particle": "minecraft:block/mangrove_log"
+  }
+}

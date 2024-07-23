@@ -1,0 +1,10 @@
+{
+  "parent": "ducktacularskitchen:block/drawer_full",
+  "textures": {
+    "main": "minecraft:block/birch_log",
+    "bottom": "minecraft:block/birch_log_top",
+    "top": "minecraft:block/birch_planks",
+    "container": "minecraft:block/stripped_birch_log",
+    "particle": "minecraft:block/birch_log"
+  }
+}

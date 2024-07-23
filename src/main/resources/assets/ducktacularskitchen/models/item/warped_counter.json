@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/counter_full",
+  "textures": {
+    "main": "minecraft:block/warped_stem",
+    "bottom": "minecraft:block/warped_stem_top",
+    "top": "minecraft:block/warped_planks",
+    "particle": "minecraft:block/warped_stem"
+  }
+}

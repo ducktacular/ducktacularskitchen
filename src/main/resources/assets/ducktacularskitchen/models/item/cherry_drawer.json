@@ -1,0 +1,10 @@
+{
+  "parent": "ducktacularskitchen:block/drawer_full",
+  "textures": {
+    "main": "minecraft:block/cherry_log",
+    "bottom": "minecraft:block/cherry_log",
+    "top": "minecraft:block/cherry_planks",
+    "container": "minecraft:block/cherry_log",
+    "particle": "minecraft:block/cherry_log"
+  }
+}

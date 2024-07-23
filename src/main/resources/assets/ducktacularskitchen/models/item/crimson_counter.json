@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/counter_full",
+  "textures": {
+    "main": "minecraft:block/crimson_stem",
+    "bottom": "minecraft:block/crimson_stem_top",
+    "top": "minecraft:block/crimson_planks",
+    "particle": "minecraft:block/crimson_stem"
+  }
+}

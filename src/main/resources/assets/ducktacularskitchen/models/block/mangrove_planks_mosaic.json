@@ -1,0 +1,7 @@
+{
+  "parent": "ducktacularskitchen:block/mosaic",
+  "textures": {
+    "main": "minecraft:block/mangrove_planks",
+    "particle": "minecraft:block/mangrove_planks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_left",
+  "textures": {
+    "main": "minecraft:block/spruce_log",
+    "bottom": "minecraft:block/spruce_log_top",
+    "container": "minecraft:block/stripped_spruce_log",
+    "particle": "minecraft:block/spruce_log"
+  }
+}

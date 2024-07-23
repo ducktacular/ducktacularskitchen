@@ -1,0 +1,7 @@
+{
+  "parent": "ducktacularskitchen:block/counter_top",
+  "textures": {
+    "top": "minecraft:block/crimson_planks",
+    "particle": "minecraft:block/crimson_planks"
+  }
+}

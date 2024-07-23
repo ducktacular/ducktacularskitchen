@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/counter_full",
+  "textures": {
+    "main": "minecraft:block/spruce_log",
+    "bottom": "minecraft:block/spruce_log",
+    "top": "minecraft:block/spruce_planks",
+    "particle": "minecraft:block/spruce_log"
+  }
+}

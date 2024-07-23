@@ -1,0 +1,7 @@
+{
+  "parent": "ducktacularskitchen:block/mosaic",
+  "textures": {
+    "main": "minecraft:block/crimson_planks",
+    "particle": "minecraft:block/crimson_planks"
+  }
+}

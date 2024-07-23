@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/drawer",
+  "textures": {
+    "main": "minecraft:block/oak_log",
+    "bottom": "minecraft:block/oak_log_top",
+    "container": "minecraft:block/stripped_oak_log",
+    "particle": "minecraft:block/oak_log"
+  }
+}

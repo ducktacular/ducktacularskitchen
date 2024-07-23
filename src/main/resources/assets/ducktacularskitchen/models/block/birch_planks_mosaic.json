@@ -1,0 +1,7 @@
+{
+  "parent": "ducktacularskitchen:block/mosaic",
+  "textures": {
+    "main": "minecraft:block/birch_planks",
+    "particle": "minecraft:block/birch_planks"
+  }
+}

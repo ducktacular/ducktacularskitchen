@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_right",
+  "textures": {
+    "main": "minecraft:block/jungle_log",
+    "bottom": "minecraft:block/jungle_log_top",
+    "container": "minecraft:block/stripped_jungle_log",
+    "particle": "minecraft:block/jungle_log"
+  }
+}

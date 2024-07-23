@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_left",
+  "textures": {
+    "main": "minecraft:block/birch_log",
+    "bottom": "minecraft:block/birch_log_top",
+    "container": "minecraft:block/stripped_birch_log",
+    "particle": "minecraft:block/birch_log"
+  }
+}

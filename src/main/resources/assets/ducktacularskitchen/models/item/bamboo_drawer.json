@@ -1,0 +1,10 @@
+{
+  "parent": "ducktacularskitchen:block/drawer_full",
+  "textures": {
+    "main": "minecraft:block/bamboo_block",
+    "bottom": "minecraft:block/bamboo_block_top",
+    "top": "minecraft:block/bamboo_planks",
+    "container": "minecraft:block/stripped_bamboo_block",
+    "particle": "minecraft:block/bamboo_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/drawer",
+  "textures": {
+    "main": "minecraft:block/crimson_stem",
+    "bottom": "minecraft:block/crimson_stem_top",
+    "container": "minecraft:block/stripped_crimson_stem",
+    "particle": "minecraft:block/crimson_stem"
+  }
+}
