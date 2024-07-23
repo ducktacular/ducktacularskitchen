@@ -17,6 +17,10 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> BLENDER = BLOCKS.register("blender", Blender::new);
 
+    public static final DeferredBlock<Block> OAK_TILE = BLOCKS.register("oak_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
+    public static final DeferredBlock<Block> SPRUCE_TILE = BLOCKS.register("spruce_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS)));
+
+
     public static final DeferredBlock<Block> OAK_PLANKS_MOSAIC = BLOCKS.register("oak_planks_mosaic", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final DeferredBlock<Block> SPRUCE_PLANKS_MOSAIC = BLOCKS.register("spruce_planks_mosaic", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS)));
     public static final DeferredBlock<Block> BIRCH_PLANKS_MOSAIC = BLOCKS.register("birch_planks_mosaic", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.BIRCH_PLANKS)));

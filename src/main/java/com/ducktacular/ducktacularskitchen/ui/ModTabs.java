@@ -26,11 +26,13 @@ public class ModTabs {
                         output.accept(ModBlocks.BLENDER.get());
 
                         output.accept(ModBlocks.OAK_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.OAK_TILE.get());
                         output.accept(ModBlocks.OAK_COUNTER.get());
                         output.accept(ModBlocks.OAK_DRAWER.get());
                         output.accept(ModBlocks.OAK_CABINET.get());
 
                         output.accept(ModBlocks.SPRUCE_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.SPRUCE_TILE.get());
                         output.accept(ModBlocks.SPRUCE_COUNTER.get());
                         output.accept(ModBlocks.SPRUCE_DRAWER.get());
                         output.accept(ModBlocks.SPRUCE_CABINET.get());

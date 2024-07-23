@@ -18,6 +18,9 @@ public class ModItems {
 
     public static final DeferredItem<BlockItem> BLENDER = ITEMS.registerSimpleBlockItem("blender", ModBlocks.BLENDER);
 
+    public static final DeferredItem<BlockItem> OAK_TILE = ITEMS.registerSimpleBlockItem("oak_tile", ModBlocks.OAK_TILE);
+    public static final DeferredItem<BlockItem> SPRUCE_TILE = ITEMS.registerSimpleBlockItem("spruce_tile", ModBlocks.SPRUCE_TILE);
+
     public static final DeferredItem<BlockItem> OAK_PLANKS_MOSAIC = ITEMS.registerSimpleBlockItem("oak_planks_mosaic", ModBlocks.OAK_PLANKS_MOSAIC);
     public static final DeferredItem<BlockItem> SPRUCE_PLANKS_MOSAIC = ITEMS.registerSimpleBlockItem("spruce_planks_mosaic", ModBlocks.SPRUCE_PLANKS_MOSAIC);
     public static final DeferredItem<BlockItem> BIRCH_PLANKS_MOSAIC = ITEMS.registerSimpleBlockItem("birch_planks_mosaic", ModBlocks.BIRCH_PLANKS_MOSAIC);
