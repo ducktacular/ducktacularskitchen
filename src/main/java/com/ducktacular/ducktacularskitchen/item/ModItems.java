@@ -20,6 +20,15 @@ public class ModItems {
 
     public static final DeferredItem<BlockItem> OAK_TILE = ITEMS.registerSimpleBlockItem("oak_tile", ModBlocks.OAK_TILE);
     public static final DeferredItem<BlockItem> SPRUCE_TILE = ITEMS.registerSimpleBlockItem("spruce_tile", ModBlocks.SPRUCE_TILE);
+    public static final DeferredItem<BlockItem> BIRCH_TILE = ITEMS.registerSimpleBlockItem("birch_tile", ModBlocks.BIRCH_TILE);
+    public static final DeferredItem<BlockItem> JUNGLE_TILE = ITEMS.registerSimpleBlockItem("jungle_tile", ModBlocks.JUNGLE_TILE);
+    public static final DeferredItem<BlockItem> ACACIA_TILE = ITEMS.registerSimpleBlockItem("acacia_tile", ModBlocks.ACACIA_TILE);
+    public static final DeferredItem<BlockItem> DARK_OAK_TILE = ITEMS.registerSimpleBlockItem("dark_oak_tile", ModBlocks.DARK_OAK_TILE);
+    public static final DeferredItem<BlockItem> MANGROVE_TILE = ITEMS.registerSimpleBlockItem("mangrove_tile", ModBlocks.MANGROVE_TILE);
+    public static final DeferredItem<BlockItem> CHERRY_TILE = ITEMS.registerSimpleBlockItem("cherry_tile", ModBlocks.CHERRY_TILE);
+    public static final DeferredItem<BlockItem> BAMBOO_TILE = ITEMS.registerSimpleBlockItem("bamboo_tile", ModBlocks.BAMBOO_TILE);
+    public static final DeferredItem<BlockItem> CRIMSON_TILE = ITEMS.registerSimpleBlockItem("crimson_tile", ModBlocks.CRIMSON_TILE);
+    public static final DeferredItem<BlockItem> WARPED_TILE = ITEMS.registerSimpleBlockItem("warped_tile", ModBlocks.WARPED_TILE);
 
     public static final DeferredItem<BlockItem> OAK_PLANKS_MOSAIC = ITEMS.registerSimpleBlockItem("oak_planks_mosaic", ModBlocks.OAK_PLANKS_MOSAIC);
     public static final DeferredItem<BlockItem> SPRUCE_PLANKS_MOSAIC = ITEMS.registerSimpleBlockItem("spruce_planks_mosaic", ModBlocks.SPRUCE_PLANKS_MOSAIC);

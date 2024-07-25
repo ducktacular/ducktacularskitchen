@@ -19,7 +19,15 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> OAK_TILE = BLOCKS.register("oak_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final DeferredBlock<Block> SPRUCE_TILE = BLOCKS.register("spruce_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS)));
-
+    public static final DeferredBlock<Block> BIRCH_TILE = BLOCKS.register("birch_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.BIRCH_PLANKS)));
+    public static final DeferredBlock<Block> JUNGLE_TILE = BLOCKS.register("jungle_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.JUNGLE_PLANKS)));
+    public static final DeferredBlock<Block> ACACIA_TILE = BLOCKS.register("acacia_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.ACACIA_PLANKS)));
+    public static final DeferredBlock<Block> DARK_OAK_TILE = BLOCKS.register("dark_oak_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.DARK_OAK_PLANKS)));
+    public static final DeferredBlock<Block> MANGROVE_TILE = BLOCKS.register("mangrove_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.MANGROVE_PLANKS)));
+    public static final DeferredBlock<Block> CHERRY_TILE = BLOCKS.register("cherry_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.CHERRY_PLANKS)));
+    public static final DeferredBlock<Block> BAMBOO_TILE = BLOCKS.register("bamboo_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.BAMBOO_PLANKS)));
+    public static final DeferredBlock<Block> CRIMSON_TILE = BLOCKS.register("crimson_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.CRIMSON_PLANKS)));
+    public static final DeferredBlock<Block> WARPED_TILE = BLOCKS.register("warped_tile", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.WARPED_PLANKS)));
 
     public static final DeferredBlock<Block> OAK_PLANKS_MOSAIC = BLOCKS.register("oak_planks_mosaic", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS)));
     public static final DeferredBlock<Block> SPRUCE_PLANKS_MOSAIC = BLOCKS.register("spruce_planks_mosaic", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.SPRUCE_PLANKS)));

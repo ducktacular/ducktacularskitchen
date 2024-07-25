@@ -5,6 +5,15 @@
 
   "block.ducktacularskitchen.oak_tile": "Oak Tile",
   "block.ducktacularskitchen.spruce_tile": "Spruce Tile",
+  "block.ducktacularskitchen.birch_tile": "Birch Tile",
+  "block.ducktacularskitchen.jungle_tile": "Jungle Tile",
+  "block.ducktacularskitchen.acacia_tile": "Acacia Tile",
+  "block.ducktacularskitchen.dark_oak_tile": "Dark Oak Tile",
+  "block.ducktacularskitchen.mangrove_tile": "Mangrove Tile",
+  "block.ducktacularskitchen.cherry_tile": "Cherry Tile",
+  "block.ducktacularskitchen.bamboo_tile": "Bamboo Tile",
+  "block.ducktacularskitchen.crimson_tile": "Crimson Tile",
+  "block.ducktacularskitchen.warped_tile": "Warped Tile",
   
   "block.ducktacularskitchen.oak_planks_mosaic": "Oak Planks Mosaic",
   "block.ducktacularskitchen.spruce_planks_mosaic": "Spruce Planks Mosaic",

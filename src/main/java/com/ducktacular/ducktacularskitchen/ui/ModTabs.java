@@ -38,46 +38,55 @@ public class ModTabs {
                         output.accept(ModBlocks.SPRUCE_CABINET.get());
 
                         output.accept(ModBlocks.BIRCH_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.BIRCH_TILE.get());
                         output.accept(ModBlocks.BIRCH_COUNTER.get());
                         output.accept(ModBlocks.BIRCH_DRAWER.get());
                         output.accept(ModBlocks.BIRCH_CABINET.get());
 
                         output.accept(ModBlocks.JUNGLE_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.JUNGLE_TILE.get());
                         output.accept(ModBlocks.JUNGLE_COUNTER.get());
                         output.accept(ModBlocks.JUNGLE_DRAWER.get());
                         output.accept(ModBlocks.JUNGLE_CABINET.get());
 
                         output.accept(ModBlocks.ACACIA_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.ACACIA_TILE.get());
                         output.accept(ModBlocks.ACACIA_COUNTER.get());
                         output.accept(ModBlocks.ACACIA_DRAWER.get());
                         output.accept(ModBlocks.ACACIA_CABINET.get());
 
                         output.accept(ModBlocks.DARK_OAK_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.DARK_OAK_TILE.get());
                         output.accept(ModBlocks.DARK_OAK_COUNTER.get());
                         output.accept(ModBlocks.DARK_OAK_DRAWER.get());
                         output.accept(ModBlocks.DARK_OAK_CABINET.get());
 
                         output.accept(ModBlocks.MANGROVE_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.MANGROVE_TILE.get());
                         output.accept(ModBlocks.MANGROVE_COUNTER.get());
                         output.accept(ModBlocks.MANGROVE_DRAWER.get());
                         output.accept(ModBlocks.MANGROVE_CABINET.get());
 
                         output.accept(ModBlocks.CHERRY_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.CHERRY_TILE.get());
                         output.accept(ModBlocks.CHERRY_COUNTER.get());
                         output.accept(ModBlocks.CHERRY_DRAWER.get());
                         output.accept(ModBlocks.CHERRY_CABINET.get());
 
                         output.accept(ModBlocks.BAMBOO_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.BAMBOO_TILE.get());
                         output.accept(ModBlocks.BAMBOO_COUNTER.get());
                         output.accept(ModBlocks.BAMBOO_DRAWER.get());
                         output.accept(ModBlocks.BAMBOO_CABINET.get());
 
                         output.accept(ModBlocks.CRIMSON_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.CRIMSON_TILE.get());
                         output.accept(ModBlocks.CRIMSON_COUNTER.get());
                         output.accept(ModBlocks.CRIMSON_DRAWER.get());
                         output.accept(ModBlocks.CRIMSON_CABINET.get());
 
                         output.accept(ModBlocks.WARPED_PLANKS_MOSAIC.get());
+                        output.accept(ModBlocks.WARPED_TILE.get());
                         output.accept(ModBlocks.WARPED_COUNTER.get());
                         output.accept(ModBlocks.WARPED_DRAWER.get());
                         output.accept(ModBlocks.WARPED_CABINET.get());
