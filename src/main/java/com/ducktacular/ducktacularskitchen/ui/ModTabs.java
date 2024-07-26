@@ -90,5 +90,9 @@ public class ModTabs {
                         output.accept(ModBlocks.WARPED_COUNTER.get());
                         output.accept(ModBlocks.WARPED_DRAWER.get());
                         output.accept(ModBlocks.WARPED_CABINET.get());
+
+                        output.accept(ModBlocks.STONE_COUNTER.get());
+                        output.accept(ModBlocks.STONE_DRAWER.get());
+                        output.accept(ModBlocks.STONE_CABINET.get());
                     }).build());
 }

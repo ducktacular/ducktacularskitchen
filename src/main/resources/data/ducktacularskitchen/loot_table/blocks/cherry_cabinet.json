@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ducktacularskitchen:cherry_cabinet"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "ducktacularskitchen:block/cherry_cabinet"
+}

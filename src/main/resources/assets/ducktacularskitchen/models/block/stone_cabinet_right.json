@@ -1,0 +1,9 @@
+{
+  "parent": "ducktacularskitchen:block/cabinet_right",
+  "textures": {
+    "main": "minecraft:block/stone",
+    "bottom": "minecraft:block/stone",
+    "container": "minecraft:block/smooth_stone",
+    "particle": "minecraft:block/stone"
+  }
+}

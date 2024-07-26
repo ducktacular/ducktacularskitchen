@@ -1,0 +1,10 @@
+{
+  "parent": "ducktacularskitchen:block/drawer_full",
+  "textures": {
+    "main": "minecraft:block/stone",
+    "bottom": "minecraft:block/stone",
+    "top": "minecraft:block/smooth_stone",
+    "container": "minecraft:block/smooth_stone",
+    "particle": "minecraft:block/stone"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "ducktacularskitchen:block/counter_side",
+  "textures": {
+    "main": "minecraft:block/stone",
+    "bottom": "minecraft:block/stone",
+    "particle": "minecraft:block/stone"
+  }
+}

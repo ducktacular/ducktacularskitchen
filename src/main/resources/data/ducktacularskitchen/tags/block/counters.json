@@ -32,6 +32,10 @@
     "ducktacularskitchen:crimson_cabinet",
     "ducktacularskitchen:warped_counter",
     "ducktacularskitchen:warped_drawer",
-    "ducktacularskitchen:warped_cabinet"
+    "ducktacularskitchen:warped_cabinet",
+
+    "ducktacularskitchen:stone_counter",
+    "ducktacularskitchen:stone_drawer",
+    "ducktacularskitchen:stone_cabinet"
   ]
 }

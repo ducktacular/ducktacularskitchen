@@ -2,6 +2,15 @@
   "values": [
     "ducktacularskitchen:oak_tile",
     "ducktacularskitchen:spruce_tile",
+    "ducktacularskitchen:birch_tile",
+    "ducktacularskitchen:jungle_tile",
+    "ducktacularskitchen:acacia_tile",
+    "ducktacularskitchen:dark_oak_tile",
+    "ducktacularskitchen:mangrove_tile",
+    "ducktacularskitchen:cherry_tile",
+    "ducktacularskitchen:bamboo_tile",
+    "ducktacularskitchen:crimson_tile",
+    "ducktacularskitchen:warped_tile",
 
     "ducktacularskitchen:oak_planks_mosaic",
     "ducktacularskitchen:spruce_planks_mosaic",

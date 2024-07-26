@@ -13,8 +13,8 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(DucktacularsKitchen.MODID);
 
-    public static final DeferredItem<Item> ORANGE = ITEMS.register( "orange", () ->
-            new Item(new Item.Properties().stacksTo( 19).fireResistant()));
+    public static final DeferredItem<Item> ORANGE = ITEMS.register("orange", () ->
+            new Item(new Item.Properties().stacksTo(19).fireResistant()));
 
     public static final DeferredItem<BlockItem> BLENDER = ITEMS.registerSimpleBlockItem("blender", ModBlocks.BLENDER);
 
@@ -75,4 +75,7 @@ public class ModItems {
     public static final DeferredItem<BlockItem> WARPED_COUNTER = ITEMS.registerSimpleBlockItem("warped_counter", ModBlocks.WARPED_COUNTER);
     public static final DeferredItem<BlockItem> WARPED_DRAWER = ITEMS.registerSimpleBlockItem("warped_drawer", ModBlocks.WARPED_DRAWER);
     public static final DeferredItem<BlockItem> WARPED_CABINET = ITEMS.registerSimpleBlockItem("warped_cabinet", ModBlocks.WARPED_CABINET);
+    public static final DeferredItem<BlockItem> STONE_COUNTER = ITEMS.registerSimpleBlockItem("stone_counter", ModBlocks.STONE_COUNTER);
+    public static final DeferredItem<BlockItem> STONE_DRAWER = ITEMS.registerSimpleBlockItem("stone_drawer", ModBlocks.STONE_DRAWER);
+    public static final DeferredItem<BlockItem> STONE_CABINET = ITEMS.registerSimpleBlockItem("stone_cabinet", ModBlocks.STONE_CABINET);
 }

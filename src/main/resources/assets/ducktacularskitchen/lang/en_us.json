@@ -60,6 +60,9 @@
   "block.ducktacularskitchen.warped_counter": "Warped Counter",
   "block.ducktacularskitchen.warped_drawer": "Warped Drawer",
   "block.ducktacularskitchen.warped_cabinet": "Warped Cabinet",
+  "block.ducktacularskitchen.stone_counter": "Stone Counter",
+  "block.ducktacularskitchen.stone_drawer": "Stone Drawer",
+  "block.ducktacularskitchen.stone_cabinet": "Stone Cabinet",
 
   "itemGroup.ducktacularskitchen": "Kitchen Items"
 }
